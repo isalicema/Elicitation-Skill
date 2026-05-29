@@ -1,5 +1,7 @@
 # Elicitation Skill — Intent Compiler for AI Agents
 
+English | [简体中文](README.zh-CN.md)
+
 **Elicitation Skill** is an AgentSkill that helps an AI assistant turn vague human intent into actionable definitions.
 
 It is not a meeting-notes bot, a questionnaire, or a generic brainstorming prompt. It teaches an agent to ask a few sharp questions first, uncover the hidden judgment behind a fuzzy idea, and then compile the answer into an **Intent Brief** that can change a product, workflow, skill, memory rule, or agent behavior.
@@ -54,6 +56,7 @@ Do **not** use it for routine Q&A or simple tasks that are already clear.
 ```text
 .
 ├── README.md
+├── README.zh-CN.md
 ├── skill/
 │   └── elicitation-agent/
 │       ├── SKILL.md
