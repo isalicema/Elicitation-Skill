@@ -5,3 +5,6 @@ node_modules/
 dist/
 build/
 *.log
+
+# Local project ledger; never commit or publish.
+[Pp][Rr][Oo][Jj][Ee][Cc][Tt].[Mm][Dd]
